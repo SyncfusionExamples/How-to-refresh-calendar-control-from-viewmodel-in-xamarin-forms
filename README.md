@@ -1,4 +1,4 @@
-# How to refresh calendar control from view model in Xamarin.Forms?
+# How to refresh the Calendar control from ViewModel?
 
 This example demonstrates to refresh calendar from view model in Xamarin.Forms.
 
